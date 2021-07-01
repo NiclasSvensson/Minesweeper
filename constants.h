@@ -3,7 +3,7 @@
 
 const int WIDTH = 20;
 const int HEIGHT = 10;
-const int BOMBS = 2;
+const int BOMBS = 35;
 
 const int MARGIN = 40;
 const int BETWEEN = 5;
