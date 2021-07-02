@@ -1,6 +1,6 @@
 # Minesweeper
 
-Minesweeper game developed in C++, using the SFML library for GUI. Created as a hobby project to practice my programming ability. Contains all features a minesweeper game should contain apart from a "safe start", where the first click guarantees to hit a square with 0 neigbouring mines.
+Minesweeper game developed in C++, using the SFML library for GUI. Created as a hobby project to practice my programming ability. Contains all features a minesweeper game should contain apart from a "safe start", where the first click guarantees to hit a square with 0 neighbouring mines.
 
 # Install
 
