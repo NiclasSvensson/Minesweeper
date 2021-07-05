@@ -23,5 +23,5 @@ make
 
 # Explosion animation
 
-The explosion animation is created by Oliver Remund in Piskel and can be found [here](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgMDa6NjhCgw/view).
+The explosion animation is created by Oliver Remund in Piskel and can be found [here](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgMDa6NjhCgw/view). All other game art was created by me.
 
