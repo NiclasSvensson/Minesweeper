@@ -10,7 +10,7 @@ Install g++ and SFML. Clone the project and run make.
 sudo apt-get install g++
 sudo apt-get install libsfml-dev
 
-git clone https://github.com/NiclasSvensson/Minesweeper.git
+git clone git@github.com:NiclasSvensson/Minesweeper.git
 cd Minesweeper
 make
 ```
