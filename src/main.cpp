@@ -10,7 +10,7 @@ int main(){
     sf::RenderWindow window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Minesweeper", sf::Style::Titlebar | sf::Style::Close);
     
     sf::Image icon;
-    icon.loadFromFile("assets/bomb.png");
+    icon.loadFromFile("../assets/bomb.png");
     sf::Vector2u v = icon.getSize();
     window.setIcon(v.x, v.y, icon.getPixelsPtr());
 

@@ -12,6 +12,9 @@ sudo apt-get install libsfml-dev
 
 git clone git@github.com:NiclasSvensson/Minesweeper.git
 cd Minesweeper
+mkdir build
+cd build
+cmake ..
 make
 ```
 
