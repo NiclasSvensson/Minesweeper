@@ -21,7 +21,7 @@ Board::Board(int num_row, int num_col, int num_bombs){
 
     restart_sprite = sf::Sprite();
     restart_sprite.setTexture(resource -> Restart());
-    restart_sprite.setScale(3.0f, 3.0f);
+    restart_sprite.setScale(3.5f, 3.5f);
     restart_sprite.setPosition(MARGIN, MARGIN + HEIGHT*(SQUARE_WIDTH+BETWEEN) + BETWEEN);
     restart_bound = restart_sprite.getGlobalBounds();
 
